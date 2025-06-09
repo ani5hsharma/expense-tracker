@@ -21,8 +21,8 @@
   },
   "homepage": "https://github.com/ani5hsharma/expense-tracker#readme",
   "dependencies": {
-    "telegraf": "^4.16.3",
-    "tesseract.js": "^6.0.1"
+    "@google/genai": "^1.4.0",
+    "telegraf": "^4.16.3"
   },
   "devDependencies": {
     "@types/node": "^22.15.29",
